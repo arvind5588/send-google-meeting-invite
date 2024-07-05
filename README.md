@@ -35,21 +35,21 @@ EMAIL_TO=recipient-email@gmail.com
 
 2. Enable 2-Step Verification and Generate an App Password
 
-2.1 Enable 2-Step Verification:
-a. Go to your Google Account Security settings.
+    2.1 Enable 2-Step Verification:
+        a. Go to your Google Account Security settings.
 
-b. Under "Signing in to Google," find "2-Step Verification" and click "Get Started."
+        b. Under "Signing in to Google," find "2-Step Verification" and click "Get Started."
 
-c. Follow the prompts to set up 2-Step Verification.
+        c. Follow the prompts to set up 2-Step Verification.
 
-2.2 Generate an App Password:
-After enabling 2-Step Verification, go back to the Google Account Security settings.
+    2.2 Generate an App Password:
+        After enabling 2-Step Verification, go back to the Google Account Security settings.
 
-a. Under "Signing in to Google," find "App passwords" and click on it.
+        a. Under "Signing in to Google," find "App passwords" and click on it.
 
-b. Select "Mail" as the app and your device type (e.g., "Windows Computer") and click "Generate."
+        b. Select "Mail" as the app and your device type (e.g., "Windows Computer") and click "Generate."
 
-c. Google will provide you with a 16-character password.
+        c. Google will provide you with a 16-character password.
 
 ### Step 4: Add OAuth 2.0 Credentials
 Place the credentials.json file (downloaded from the Google Cloud Console) in the project root.
